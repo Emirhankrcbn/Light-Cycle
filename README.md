@@ -1,4 +1,4 @@
-# 💡 Işık İzi Düellosu
+#  Işık İzi Düellosu
 
 Tron esintili, 2 kişilik local ışık motosikleti (light cycle) oyunu. Arkanda parlayan bir iz bırakırsın — kendi izine ya da rakibinin izine çarpan kaybeder.
 
