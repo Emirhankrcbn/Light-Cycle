@@ -43,21 +43,5 @@ Ardından iki seçenekten biriyle çalıştır:
    ```
    Sonra tarayıcıda `http://localhost:8000` adresini aç.
 
-## Ortam Değişkenleri
 
-Yok. Proje hiçbir backend'e, API'ye veya veritabanına bağlanmıyor; tüm mantık tarayıcıda çalışıyor. Bu yüzden `.env` dosyasına, API anahtarına veya başka bir yapılandırmaya ihtiyaç yok.
-
-## Katkıda Bulunma
-
-Bu küçük, kişisel bir proje olsa da öneri/düzeltme her zaman memnuniyetle karşılanır:
-
-1. Repoyu fork'la
-2. Değişikliğin için yeni bir branch aç (`git checkout -b ozellik/aciklama`)
-3. Değişikliklerini commit'le ve fork'una push'la
-4. Bir Pull Request aç ve neyi neden değiştirdiğini kısaca açıkla
-
-Büyük bir değişiklik yapmadan önce bir Issue açıp fikri konuşmak faydalı olur.
-
-## Lisans
-
-Bu repo için henüz bir lisans belirtilmedi (tank-duel reposunda da aynı tercih yapıldı). Belirtilmediği sürece GitHub'ın varsayılan kuralı geçerlidir: kodu görebilir ve inceleyebilirsin, ancak izin verilmeden kopyalama/dağıtma/değiştirme hakkı verilmemiştir (tüm haklar saklıdır). İleride açık kaynak bir lisans (örn. MIT) eklemek istersen bir `LICENSE` dosyası eklemek yeterli.
+   
